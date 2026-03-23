@@ -1,27 +1,10 @@
-h2, p {
-  margin: 10px;
+html, body{
+  
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
-}
-
-ul li {
-  float: left;
-}
-
-ul li a {
-  display: block;
-  color: white;
+#myheader {
+  background-color: rgb(75, 42, 5);
+  color: rgb(66, 66, 66);
+  padding: 20px;
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-ul li a:hover {
-  background-color: #111111;
 }
